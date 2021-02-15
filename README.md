@@ -7,7 +7,7 @@ What to call the main folder of articles?
 - `articles`?
   - too newsy
 - `pages`?
-  - too vague
+  - taken by NextJS
 - `endpoints`?
   - kinda like
   - as if this is an "API" for human writing
