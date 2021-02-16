@@ -1,27 +1,23 @@
-# Decision One
+# Content for docs.jacobford.com
 
-What to call the main folder of articles?
+A git-tracked repo containing all written `pieces` for docs.jacobford.com.
 
-- `posts`?
-  - too social media, just don't love
-- `articles`?
-  - too newsy
-- `pages`?
-  - taken by NextJS
-- `endpoints`?
-  - kinda like
-  - as if this is an "API" for human writing
-  - but could be confusing should I launch an _actual_ API
-- `pieces`?
-  - kinda like
-- `documents`?
-  - love the allusion to Living Documents (my inspiration and framework for this whole anti-blog system)
-  - but implies more technical writing than prose
-- `papers`?
-  - too strictly academic
-- `paraphs`?
-  - also kinda like
-  - has a [meaning](https://www.merriam-webster.com/dictionary/paraph)
-  - too snooty?
-- `¶s`?
-  - should probably stick to ASCII
+See unitof/self-docs-code for the site designed to host & display this content.
+
+A non-chronological blog. Open source documentation of a guy.
+
+Non-plaintext assets tracked and stored, as much as possible, using Git LFS.
+
+### Guiding Principle
+Plain Markdown writing, with all relevant media and assets stored relative to each piece. With a few cross-referential exceptions, each piece should be self-contained, portable, standarized, and not dependent on outside compilation to be read in as basic Markdown with a few relative links.
+
+### Wishlist
+- [ ] Exposed Git functionality
+  - [ ] More intuitive first-published vs. last-updated dates
+  - [ ] Changelog for any article (`git log -- content/pieces/[slug]`)
+  - [ ] Ability to view any piece as it existed on given date
+  - [ ] Blame view for articles
+  - [ ] Diff view between two commits
+- [-] Git benefits applied to all assets without repo bloating
+  - [x] I really hope Git LFS solves all this
+  - [-] And that GitHub's LFS hosting behind Fastly doesn't [cause problems](https://github.com/vercel/vercel/discussions/3716#discussioncomment-348299)
