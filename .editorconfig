@@ -1,0 +1,11 @@
+# though this repo is usually installed as a submodule to unitof/self-docs-code,
+# we'll write separate (but similar) .editorconfig rules for each
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+charset = utf-8
+indent_style = space
+indent_size = 2
