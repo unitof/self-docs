@@ -1,3 +1,4 @@
+---
 title: Phone Art
 ---
 Since 2016 I've been collecting what I term Phone Art: creative uses of usually automated phone systems. Sometimes straightforwardly art pieces, sometimes marketing, sometimes for very technical testing purposes but repurposed something poetic when used by a person outside the industry.
