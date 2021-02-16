@@ -8,8 +8,14 @@ A non-chronological blog. Open source documentation of a guy.
 
 Non-plaintext assets tracked and stored, as much as possible, using Git LFS.
 
-### Guiding Principle
+### Guiding Principles
 Plain Markdown writing, with all relevant media and assets stored relative to each piece. With a few cross-referential exceptions, each piece should be self-contained, portable, standarized, and not dependent on outside compilation to be read in as basic Markdown with a few relative links.
+
+Each `piece` exists at a stable URL determined by its containing folder's name (slug). Pieces can be thought of as Living Documents. Similar to Posts on a blog, but without the heavyhanded chronological organization scheme, and build specifically to accomodate changes over time, rather than simply supporting _editing_ as a side feature.
+
+The personality of a blog.
+The preserved history of a wiki.
+The organizational curation of a book.
 
 ### Wishlist
 - [ ] Exposed Git functionality
