@@ -4,3 +4,5 @@
   Love the histograph at top.
 - [Wikimedia diff viewing engine](https://en.wikipedia.org/w/index.php?title=Contempra&oldid=1008886458)
   Esp. the helpful notices at top, informing you of what version being viewed and its relevance to latest
+- [Partner & Partners](https://partnerandpartners.com)
+  Love the `font-family: serif` default but with everything else custom.
