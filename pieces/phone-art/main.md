@@ -18,7 +18,7 @@ Maintained by The New Museum. Still active as of 2021, but in 2020 started charg
 
 ## (858) 651-5050
 ### Harvard Sentence Hotline
-This is my personal Mendela Effect. I will absolute confidence swear there was a 99% Invisible episode on Harvard Sentences. They contain every—or at least attempt to contain many—phonemes of a given dialect. Like pangrams, but for the IPA instead of just the A.
+This is my personal Mendela Effect. I with absolute confidence swear there was a 99% Invisible episode on Harvard Sentences. They contain every—or at least attempt to contain many—phonemes of a given dialect. Like pangrams, but for the IPA instead of just the A.
 
 I cannot find that 99PI episode—or a similar episode of a different podcast I'm likely to have confused it with—anywhere.
 
