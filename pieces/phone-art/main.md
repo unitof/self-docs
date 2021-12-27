@@ -7,13 +7,13 @@ Since 2016 I've been collecting what I term Phone Art: creative uses of usually 
 ### Dial-a-Poem
 John Giorno's hotline that started it all. I've been doing a lot of research on this one, and much more is to come. Current number maintained, as far as I can tell, by The New Museum. Previous numbers:
 
-#### (212) 628-0400‬
+#### (212) 628-0400
 The original? Maintained by The Architectural League in 1969 and then MoMA in 1970, I think.
 
-#### ‭(347) 763-8011‬
+#### (347) 763-8011
 Maintained by MoMA. Shut down sometime around 2015.
 
-#### (641) 793-8122‬
+#### (641) 793-8122
 Maintained by The New Museum. Still active as of 2021, but in 2020 started charging 1¢/min on T-Mobile, with a preceding message that "The number you're dialing is outside of your plan, and will incur a one cent per-minute charge if you continue. You can hang up now to avoid the charge." before continuing to Dial-A-Poem.
 
 ## (858) 651-5050
