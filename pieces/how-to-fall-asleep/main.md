@@ -1,7 +1,6 @@
-—--
+---
 title: How to Fall Asleep by Strategically Giving Up
 ---
-
 Insomnia is a recursive antipattern. I can’t fall asleep for whatever butterfly effect reason, but I want to solve the problem so I try to isolate the particular butterfly. This gets my brain working (not conducive to sleep).
 
 I can’t solve it so I feel inadequate for trying, setting off off a tinge of guilt for trying, and meanwhile a self-feeding anxiety that I still can’t sleep. I begin to recite scoldy Mayo Clinic-type statements about how important and obvious and underrated is the need for 8 or 6 or 9 or whatever integer of sleep hours logged is more than I’m going to get. I wonder what the consequences will be and if they’ll be tomorrow or when I’m sixty while down in another hemisphere the guilt tinge I’ve been tickling with a screwdriver is beginning to approach demon core criticality.
