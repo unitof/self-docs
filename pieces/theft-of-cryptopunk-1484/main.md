@@ -15,9 +15,9 @@ Looking at my calendar and photo library, it must have been from my apartment—
 
 ❦
 
-Every crypto crash & resurge in the past I hit at the exact wrong time. Starting the day after BTC hit $1,000 on a Black Friday while I was in high school I set an auto-buy for $1 USD worth of Bitcoin every day. I sold the 2.TK BTC it'd saved in March 2016 (TK) to pay a past-due tuition bill.
+Every crypto crash & resurge in the past I hit at the exact wrong time. Starting the day after BTC hit $1,000 on a Black Friday while I was in high school I set an auto-buy for $1 USD worth of Bitcoin every day. I sold the 2.TK BTC it'd saved in March 2016 for $TK to pay a past-due tuition bill.
 
-Since Super Bowl 2020 have been especially suspicious how eagerly those who have gotten or expect their returns in this universe now are bent on convincing every cool suburban dad in the country to join in, never promising but certainly implying that somehow everybody who touches this stuff is all going to "make it,"" and it doesn't matter whether you understand how it works. Zero-trust, decentralized, self-balanced: but trust our product, use our platform, and don't worry if you don't understand how it works.
+Since circa Super Bowl 2021 have been especially suspicious how eagerly those who have gotten or expect their returns in this universe now are bent on convincing every cool suburban dad in the country to join in, never promising but certainly implying that somehow everybody who touches this stuff is all going to "make it." Zero-trust, decentralized, self-balanced, but trust our product, use our platform, and don't worry if you don't understand how it works.
 
 ❦
 
@@ -71,31 +71,25 @@ This reluctant post is to disclose how these scams work. Not looking forward to 
 
 This relucant post is to explain technically how these things work, and how they don't. Glad I experienced it firsthand.
 
-I hate asking for help when I feel so summarily terrible, but if possible try not to transact with `punksOTC`, and beware of the tactics outlined here.
-
-Those designing this Web3 world: if you want this to grow, be mindful of those less experienced than you.
+Those designing this Web3 world: if you truly want it to grow, [be mindful of those less experienced than you](https://overcast.fm/+sEeWoNP1w/37:08).
 
 
 ## Proposed Fixes
 
-1. Etherscan maintains what seems to me to be a pretty solid database of suspcious addresses. Any decent wallet should throw up noticieable warnings when transacting with one of them.
+1. Etherscan maintains what seems to me to be a pretty solid database of suspcious addresses. Wallets should query that and throw up warnings when transacting with one of them.
 
-2. There must be some user-friendly UX to present what a transaction payload is about to _do_. My guard was down because Brave (which I was trying for the first time) said no ETH would be transferred, which falsely assured me nothing of value was being moved. I wish my wallet had told me what `0xf8aa2685035502296983030d4094b47e3cd837ddf8e4c57f05d70ab865de6e193bbb80b8448b72a2ec000000000000000000000000113a78fb02e67875f781b5b4427730dd7c70ae2d00000000000000000000000000000000000000000000000000000000000005cc25a0f74a48c7b037ef5a8f86aa49f88f7e9b8f27fedbc9a9dd9d329650da9ae9b97aa058a3bb7946a65508fbfbe9f9d8a90a8c2fd0bdf8962d4849788b755acabcbe5f` meant to my future.
+2. There must be some more user-friendly UI to present what a transaction payload is about to _do_. My guard was down because Brave Wallet said no ETH would be transferred, which falsely assured me nothing of value was being moved. I wish my wallet had told me what `0xf8aa2685035502296983030d4094b47e3cd837ddf8e4c57f05d70ab865de6e193bbb80b8448b72a2ec000000000000000000000000113a78fb02e67875f781b5b4427730dd7c70ae2d00000000000000000000000000000000000000000000000000000000000005cc25a0f74a48c7b037ef5a8f86aa49f88f7e9b8f27fedbc9a9dd9d329650da9ae9b97aa058a3bb7946a65508fbfbe9f9d8a90a8c2fd0bdf8962d4849788b755acabcbe5f` meant to my future.
 
-   Those who truly think these technologies are going to spread to the masses are going to have to design UIs for same.
-
-3. Color-code transactions. Based on value, potential for hidden payloads, I don't know. But there are ways to detect this stuff. If you want your guard rails off, you can turn them off.
+3. Color-code transactions. Based on value, potential for hidden payloads, I don't know. But there are clearly ways to detect this stuff. If you want your guard rails off, you can turn them off.
 
 
 ## Some Thoughts
 
-An NFT is not an art genre. It's barely a medium. I guess it's a editioning practice. What seems unique about NFTs over any other hyped-up art trend is a large subset of culture who didn't usually spend much time thinking about art markets suddenly have strong opinions.
-
-My guess is whatever you feel toward NFTs, you'll feel the same witnessing the actual trading of high-value art. Go to a Phillips or Sotheby's auction; you can [just walk in](https://www.phillips.com/calendar). It's an odd experience.
+An NFT is not an art genre. It's barely a medium. I guess it's sort of an editioning practice. What seems unique about NFTs over any other hyped-up art trend is a large subset of culture who didn't usually spend much time thinking about art markets suddenly have strong opinions. My guess is whatever you feel toward NFTs, you'll feel the same witnessing the actual trading floors of high-value tangible art. Go to a Phillips or Sotheby's auction; you can [just walk in](https://www.phillips.com/calendar). It's an odd experience.
 
 Or the Armory Show, where I once saw a drunk museum buyer get scolded politely for walking into sculture, as the gallerist tried to figure out if her interaction made it more valuable or less, and if she was about to buy.
 
-Crypto art, built on massively distributed systems where everyone is incentivized do exactly what you ask no matter how fraudulent the demand, feel a bit like a Sotheby's auction where if you grab the painting from the block you can keep it. Then again: I suppose if that happened I'd root for the new folk hero.
+Crypto art, built on massively distributed systems where everyone processing your transactions is incentivized do exactly what you ask no matter how fraudulent the demand, feel a bit like a Sotheby's auction where if you grab the painting from the block you can keep it. Then again: I suppose if that happened I'd root for the new folk hero.
 
 
 ## Where Are They Now
@@ -106,4 +100,4 @@ The primary lead on scammers' idenity is probably the domain `meekicks.app`. WHO
 
 I'm ashamed but now have a wild story and I'm okay. For having been somewhat into this before it became a cultural touchstone, for owning something worth more money than I've ever had, for losing it so clumsily, for letting down [the people in my life](https://twitter.com/SamEwen/status/1577747247693021210) it would have helped and who were helping me.
 
-I [made a collection](TK) to celebrate this all, for me and the other two. Welcome to the club. I'll be hanging with the smokers outside the emergency exit, not smoking, talking about other things.
+I [made a collection](TK) to celebrate this all, for me and the other two MeeKicks scammees. Welcome to the club. I'll be hanging with the smokers outside the emergency exit, talking about other things.
