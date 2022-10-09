@@ -5,7 +5,7 @@ subtitle: '& feel shame at all ends'
 
 Two weeks ago I got annoyed enough at Monotype for [Helvetica The NFT](https://www.monotype.com/NFT) that I joined a [Zoom lecture](https://lu.ma/75b2r30l) about it and watched Benjamin Jones, Charles Nix, and the ghost of Lance Wyman talk about designing motion graphics for nobody/anybody/The Chain/etc.
 
-I am still not entirely sure what _The_ NFT is (there seem to be many?) and I hope [Juan Villanueva](http://www.juankafka.com) is doing okay. At the end we were slipped a link to [freenft.knownunknown.com](https://freenft.knownunknown.com), where on and off Amtrak WiFi I wrestled with switching networks, wrapping ETH, exchaning wrapped ETH for whatever MATIC is, on whatever Polygon wants to be, and somehow ended up with [four](https://opensea.io/assets/matic/0xd93a0cd586ea702fab8c98723efccbd403c15c0e/0). If you want one let me know.
+I am still not entirely sure what _The_ NFT is and I hope [Juan Villanueva](http://www.juankafka.com) is doing okay. At the end we were slipped a link to [freenft.knownunknown.com](https://freenft.knownunknown.com), where on and off Amtrak WiFi I wrestled with switching networks, wrapping ETH, exchaning wrapped ETH for whatever MATIC is, on whatever Polygon wants to be, and somehow ended up with [four](https://opensea.io/assets/matic/0xd93a0cd586ea702fab8c98723efccbd403c15c0e/0). If you want one let me know.
 
 In the wrestling I unearthed a long-forgotten wallet with a private key I thought I'd long ago lost. I happily regained access to [some CryptoKitties I thought were stuck in the Ether since 2017](https://www.cryptokitties.co/profile/0x5b68ee14964c2dddd36e5471f02008008876a3d0), and scrolling down was surprised to find I owned [CryptoPunk #1484](https://cryptopunks.app/cryptopunks/details/1484).
 
@@ -25,7 +25,7 @@ Nine months, a new laptop, uninstalled wallets, and buried passphrases later, my
 
 Until I noticed it in my wallet on the Amtrak, September 2022.
 
-I felt dissonant for having timed something so perfectly in this world was also so suspicious of, felt icky for suddenly having something worth lifechanging amounts of money I didn't exactly earn, felt pride for getting into something early and timing my forgetfulness just right, felt lucky, felt maybe I could actually buy an apartment one day.
+I felt dissonant for having timed something so perfectly in this world I am also suspicious of, felt icky for suddenly having something worth lifechanging amounts of money I didn't exactly earn, felt pride for getting into something early and timing my forgetfulness just right, felt lucky, felt excited to maybe actually buy a home.
 
 I knew enough to know even the least "rare" punks were selling around $80,000 USD, and that I wanted some help from trusted others to sell smartly. I told three people, started preparing to sell, and planning for smart money handling. Two weeks later, I was tricked into giving CryptoPunk #1484 away for free.
 
