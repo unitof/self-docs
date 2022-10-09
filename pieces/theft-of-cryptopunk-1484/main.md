@@ -41,7 +41,7 @@ If you have an account on opensea.io, you often get weird assets transferred to 
 
 3. [Increasing offers](https://opensea.io/assets/ethereum/0xf4dc041f22c4d34a2f94653c9613949922ca6c4b/47) were made via OpenSea.io from the address `0x5C73679641cc7a8f7d9EE70F167bae97772f6996`.
 
-   (It's unclear to me if any of these offers would even go through if accepted. When I tried to accept any of them, I get an "Missing or invalid parameters" due to something misconfigured gas limits, according to console logs. The offers may be designed to cause errors like this.)
+   It's unclear to me if any of these offers would even go through if accepted. When I tried to accept any of them, I get an "Missing or invalid parameters" due to something misconfigured gas limits, according to console logs. The offers may be designed to cause errors like this.
 
 4. The offers (as designed) got my attention and I looked into what the "MeeKicks" asset was, which had a description prominently linking to the URL **meekicks.app**. (NOTE: tread carefully, do not connect any wallet.)
 
@@ -55,14 +55,18 @@ If you have an account on opensea.io, you often get weird assets transferred to 
 
 9. 5 hours later, Punk #1484 was [transferred to `0x1871b1d732b65d0ae0aa3a10045e90eecfd66955`](https://etherscan.io/tx/0xc650dbb9395f9c889a94eb194d3575ddf99dce0c28771f6fb82f90bbe428899d).
 
-10. 30 minutes later, it was [sold for 240 ETH (approx. $327,835.20 USD at the time) to 0x1919db36ca2fa2e15f9000fd9cdc2edcf863e685](https://etherscan.io/tx/0xae95f082a133d7d13c05784f37500428fb8f04226904813fae1b69cfda8da2e5), an address associated with the ENS domain [`PunksOTH.eth`](https://app.ens.domains/name/punksotc.eth/details), the Twitter account [@punksotc](https://twitter.com/punksotc), and the Discord username `punksOTC#4941`, and the [OpenSea profile punksOTC](https://opensea.io/punksOTC). They still hold the punk I lost.
+10. 30 minutes later, it was [sold for 240 ETH (approx. $327,835.20 USD at the time) to `0x1919db36ca2fa2e15f9000fd9cdc2edcf863e685`](https://etherscan.io/tx/0xae95f082a133d7d13c05784f37500428fb8f04226904813fae1b69cfda8da2e5), an address associated with:
+
+    - the ENS domain [`PunksOTH.eth`](https://app.ens.domains/name/punksotc.eth/details)
+    - the Twitter account [@punksotc](https://twitter.com/punksotc)
+    - the Discord username `punksOTC#4941`
+    - the [OpenSea profile punksOTC](https://opensea.io/punksOTC)
 
 11. I've filed two FBI IC3 reports and filed an intake call with the NYC FBI field office, to see if this might qualify as art theft. Fun call, feel silly. We'll see. OpenSea accepted the reports as a police report and the flag on CryptoPunk #1484 is now permanent until it is reclaimed, or I rescind my report.
 
 12. I found [at least two victims of the same scam](https://etherscan.io/token/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb?a=0x113a78fb02e67875f781b5b4427730dd7c70ae2d):
 
     - [CryptoPunk #8800](https://cryptopunks.app/cryptopunks/details/8800) from [cryptokkie.eth](https://opensea.io/Cryptokkie.eth?tab=activity), with a [tweet](https://twitter.com/cryptokkie/status/1575124213379305475)
-
     - [CryptoPunk #5293](https://cryptopunks.app/cryptopunks/details/5293) from [knowndistance.eth](https://opensea.io/knowndistance.eth?tab=activity)
 
 13. I DM'd PunksOTC on Twitter to let them know #1484 was stolen. No response.
@@ -82,6 +86,8 @@ Those designing this Web3 world: if you truly want it to grow, [be mindful of th
 
 3. Color-code transactions. Based on value, potential for hidden payloads, I don't know. But there are clearly ways to detect this stuff. If you want your guard rails off, you can turn them off.
 
+4. I'm sure OpenSea can do more to auto-detect these types of fraudulent assets, transfers, and offers.
+
 
 ## Some Thoughts
 
@@ -94,10 +100,10 @@ Crypto art, built on massively distributed systems where everyone processing you
 
 ## Where Are They Now
 
-[CryptoPunk #1484](https://cryptopunks.app/cryptopunks/details/1484) is still owned by [PunksOTC](https://cryptopunks.app/cryptopunks/accountinfo?account=0x0232d1083e970f0c78f56202b9a666b526fa379f), under the subdomain [`2.punksotc.eth`](https://app.ens.domains/name/2.punksotc.eth/details). They seem to be [lowering their offer on a regular schedule](https://cryptopunks.app/cryptopunks/details/1484).
+[CryptoPunk #1484](https://cryptopunks.app/cryptopunks/details/1484) is still owned by [PunksOTC](https://cryptopunks.app/cryptopunks/accountinfo?account=0x0232d1083e970f0c78f56202b9a666b526fa379f), under the subdomain [`2.punksotc.eth`](https://app.ens.domains/name/2.punksotc.eth/details). They seem to be [lowering their asking price on a schedule](https://cryptopunks.app/cryptopunks/details/1484).
 
 The primary lead on scammers' idenity is probably the domain `meekicks.app`. WHOIS doesn't point to much beyond `registrar.eu` & OVH.
 
-I'm ashamed but now have a wild story and I'm okay. For having been somewhat into this before it became a cultural touchstone, for owning something worth more money than I've ever had, for losing it so clumsily, for letting down [the people in my life](https://twitter.com/SamEwen/status/1577747247693021210) it would have helped and who were helping me.
+I'm okay. Ashamed and whiplashed but now have a wild story. For having been aware this before it became a cultural touchstone, for owning something worth more money than I've ever had, for losing it so clumsily, for letting down [the people](https://twitter.com/SamEwen/status/1577747247693021210) who were helping me, and who its sale may have helped.
 
 I [made a collection](TK) to celebrate this all, for me and the other two MeeKicks scammees. Welcome to the club. I'll be hanging with the smokers outside the emergency exit, talking about other things.
