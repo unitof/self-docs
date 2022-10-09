@@ -1,7 +1,6 @@
 ---
-title: How to Get a CryptoPunk & Lose It
-subtitle: '& feel shame at all ends'
-subsubtitle: 'a foray into the worlds of crypto wealth & theft'
+title: How to Get a CryptoPunk and Lose It, and Feel Shame At All Ends
+subtitle: 'A foray into the worlds of crypto wealth & theft'
 ---
 
 Two weeks ago I got annoyed enough at Monotype for [Helvetica The NFT](https://www.monotype.com/NFT) that I joined a [Zoom lecture](https://lu.ma/75b2r30l) about it and watched Benjamin Jones, Charles Nix, and the ghost of Lance Wyman talk about designing motion graphics for nobody/anybody/The Chain/etc.
