@@ -5,27 +5,31 @@ subtitle: '& feel shame at alls ends'
 
 Two weeks ago I got annoyed enough at Monotype for [Helvetica The NFT](https://www.monotype.com/NFT) that I joined a [Zoom lecture](https://lu.ma/75b2r30l) about it and watched Benjamin Jones, Charles Nix, and the ghost of Lance Wyman talk about designing motion graphics for nobody/anybody/The Chain/etc.
 
-I am still not entirely sure what _The_ NFT is (there seem to be many?) and I hope Juan Villanueva is doing okay. But at the end we were slipped a link to [freenft.knownunknown.com](https://freenft.knownunknown.com), where on and off Amtrak WiFi I wrestled with switching networks, wrapping ETH, exchaning for whatever MATIC is, on whatever Polygon wants to be, and somehow ended up with [four](https://opensea.io/assets/matic/0xd93a0cd586ea702fab8c98723efccbd403c15c0e/0). Hit me up if you want one.
+I am still not entirely sure what _The_ NFT is (there seem to be many?) and I hope [Juan Villanueva](http://www.juankafka.com) is doing okay. At the end we were slipped a link to [freenft.knownunknown.com](https://freenft.knownunknown.com), where on and off Amtrak WiFi I wrestled with switching networks, wrapping ETH, exchaning wrapped ETH for whatever MATIC is, on whatever Polygon wants to be, and somehow ended up with [four](https://opensea.io/assets/matic/0xd93a0cd586ea702fab8c98723efccbd403c15c0e/0). If you want one let me know.
 
-In the wrestling I unearthed a long-forgotten wallet with a private key I assumed I'd lost. I happily regained access to some CryptoKitties I thought I'd lost, and scrolling down was surprised to find I owned CryptoPunk #1484.
+In the wrestling I unearthed a long-forgotten wallet with a private key I thought I'd long ago lost. I happily regained access to [some CryptoKitties I thought were stuck in the Ether since 2017](https://www.cryptokitties.co/profile/0x5b68ee14964c2dddd36e5471f02008008876a3d0), and scrolling down was surprised to find I owned [CryptoPunk #1484](https://cryptopunks.app/cryptopunks/details/1484).
 
-On March 9, 2019 at 05:31:39 PM UTC, a time when most were blessed with not having an opinion on NFTs, I put in a lowball bid of 0.05 ETH for the cheapest and most boring one I could find with a mustache like my own.
+On March 9, 2019 at 05:31:39 PM UTC, a time when most were blessed with not having opinions on the fungibility of tokens and I remember being vaguely FOMO-type curious, I put in a lowball bid of `0.05 ETH` for the cheapest and most boring Punk I could find with a mustache like my own, and promptly forgot all about it.
 
-Looking at my calendar and photo library, it must have been from my apartment—two hours later I have photos from walk I remember taking uptown, where I found an uncashed $2,000 check on the sidewalk around 23rd St. I mailed it to the return address, he anonymously sent one of those wine & cheese gift baskets by mail. Zero-trust in the corporeal world.
+Looking at my calendar and photo library, it must have been from my apartment—two hours later I have photos from walk I remember taking uptown, where I found an uncashed $2,000 check on the sidewalk around 23rd St. I voided it and mailed to the bearer's address, who a week later anonymously sent one of those wine & cheese gift baskets by mail. Zero-trust in the corporeal world.
 
-By May I forgot all about my bid. New laptop, uninstalled wallets, forgot passwords, didn't care, etc.
+❦
 
 Every crypto crash & resurge in the past I hit at the exact wrong time. Starting the day after BTC hit $1,000 on a Black Friday while I was in high school I set an auto-buy for $1 USD worth of Bitcoin every day. I sold the 2.TK BTC it'd saved in March 2016 (TK) to pay a past-due tuition bill.
 
-Since Super Bowl 2020 have been especially suspicious how eagerly those who have gotten their returns on this world now seem to want every suburban dad in the country to join in, never promising but certainly implying that somehow everybody who touches this stuff is going to make it big, and it doesn't matter whether you understand how it works. Zero-trust, decentralized, self-balanced: but trust us & use us, and don't worry how it works.
+Since Super Bowl 2020 have been especially suspicious how eagerly those who have gotten or expect their returns in this universe now are bent on convincing every cool suburban dad in the country to join in, never promising but certainly implying that somehow everybody who touches this stuff is all going to "make it,"" and it doesn't matter whether you understand how it works. Zero-trust, decentralized, self-balanced: but trust our product, use our platform, and don't worry if you don't understand how it works.
 
-Apparently [on Dececember 28, 2019](https://cryptopunks.app/cryptopunks/details/1484) my offer was accepted by the previous owner. In crypto—and this is the genuinely fascinating and useful thing—there are no accounts, there are no banks, there are no notifications. Some anonymous miner moved a few bits that put CryptoPunk #1484 into my wallet, and like many things in this world, I did the best possible thing by not knowing nor noticing nor touching it for 3 years.
+❦
+
+Nine months, a new laptop, uninstalled wallets, and buried passphrases later, my bid was apparently accepted [on Dececember 28, 2019](https://cryptopunks.app/cryptopunks/details/1484). In raw crypto contracts—and this is the genuinely fascinating and cool thing about this world—there are no accounts, no customer service, no notifications. Some anonymous miner moved a few bits that associated `punkIndex 1484` with my address, and like many things in this world, I did the best possible thing by not knowing nor noticing nor touching it for 3 years.
 
 Until I noticed it in my wallet on the Amtrak, September 2022.
 
-I felt weird for having something so valuabe which I was so suspicious of, felt shame for suddenly having something I didn't earn which I could sell for lifechanging amounts of money, felt pride for getting into something early and timing my forgetfulness just right, felt lucky, felt maybe I could actually buy an apartment one day.
+I felt dissonant for having timed something so perfectly in this world was also so suspicious of, felt icky for suddenly having something worth lifechanging amounts of money I didn't exactly earn, felt pride for getting into something early and timing my forgetfulness just right, felt lucky, felt maybe I could actually buy an apartment one day.
 
-I knew enough to know even the least "rare" punks were selling for $80,000 USD, and that I wanted some help from trusted others to sell smartly. I told three people, started preparing to offer it, and within two weeks was tricked into giving CryptoPunk #1484 away for free. Now I feel terrible for being so easily fooled, and for letting down the few people who knew about this, and were helping me figure out what to do with it.
+I knew enough to know even the least "rare" punks were selling around $80,000 USD, and that I wanted some help from trusted others to sell smartly. I told three people, started preparing to sell, and planning for smart money handling. Two weeks later, I was tricked into giving CryptoPunk #1484 away for free.
+
+I feel terrible for being so easily fooled, and for letting down the few people who knew about my lucky break, and were helping me figure out what to do with it. Despise me for naively having this thing, despise me for naively losing it, here is the story.
 
 ## The Scam
 
@@ -53,25 +57,25 @@ If you have an account on opensea.io, you often get weird assets transferred to 
 
 10. 30 minutes later, it was [sold for 240 ETH (approx. $327,835.20 USD at the time) to 0x1919db36ca2fa2e15f9000fd9cdc2edcf863e685](https://etherscan.io/tx/0xae95f082a133d7d13c05784f37500428fb8f04226904813fae1b69cfda8da2e5), an address associated with the ENS domain [`PunksOTH.eth`](https://app.ens.domains/name/punksotc.eth/details), the Twitter account [@punksotc](https://twitter.com/punksotc), and the Discord username `punksOTC#4941`, and the [OpenSea profile punksOTC](https://opensea.io/punksOTC). They still hold the punk I lost.
 
-11. I've filed two IC3 reports and filed an intake call with the NYC FBI field office, to see if this might qualify as art theft. Fun call, feel silly. We'll see. OpenSea accepted that as a police report and the flag on CryptoPunk #1484 is now permanent until I reclaim it, or rescind my report. If you want a copy of the FBI report, reach out.
+11. I've filed two FBI IC3 reports and filed an intake call with the NYC FBI field office, to see if this might qualify as art theft. Fun call, feel silly. We'll see. OpenSea accepted the reports as a police report and the flag on CryptoPunk #1484 is now permanent until it is reclaimed, or I rescind my report.
 
 12. I found [at least two victims of the same scam](https://etherscan.io/token/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb?a=0x113a78fb02e67875f781b5b4427730dd7c70ae2d):
 
-    - CryptoPunk #8800 from [cryptokkie.eth](https://opensea.io/Cryptokkie?tab=activity), with a [tweet](https://twitter.com/cryptokkie/status/1575124213379305475)
+    - [CryptoPunk #8800](https://cryptopunks.app/cryptopunks/details/8800) from [cryptokkie.eth](https://opensea.io/Cryptokkie.eth?tab=activity), with a [tweet](https://twitter.com/cryptokkie/status/1575124213379305475)
 
-    - CryptoPunk #5293 from [knowndistance.eth]()
+    - [CryptoPunk #5293](https://cryptopunks.app/cryptopunks/details/5293) from [knowndistance.eth](https://opensea.io/knowndistance.eth?tab=activity)
 
-13. I messaged PunksOTC to let them know #1484 was stolen. No response. They seem to be [lowering their offer on a regular schedule](https://cryptopunks.app/cryptopunks/details/1484).
+13. I DM'd PunksOTC on Twitter to let them know #1484 was stolen. No response.
 
 This reluctant post is to disclose how these scams work. Not looking forward to whatever identities it grants me: despised for having this thing, despised for stupidly losing it.
 
 This relucant post is to explain technically how these things work, and how they don't. Glad I experienced it firsthand.
 
-I hate asking for help when I feel so bad, but if possible try not to buy from `punksOTC` or others involved, or try to get more info from them.
+I hate asking for help when I feel so summarily terrible, but if possible try not to transact with `punksOTC`, and beware of the tactics outlined here.
 
-Warn others.
+Those designing this Web3 world: if you want this to grow, be mindful of those less experienced than you.
 
-If you can get me a cut of
+
 
 
 ## Leads
@@ -176,8 +180,10 @@ Crypto art, built on massively distributed systems where everyone is incentivize
 
 ## Where Are They Now
 
-[CryptoPunk #1484](https://cryptopunks.app/cryptopunks/details/1484) is still owned by [PunksOTC](https://cryptopunks.app/cryptopunks/accountinfo?account=0x0232d1083e970f0c78f56202b9a666b526fa379f), under the subdomain [`2.punksotc.eth`](https://app.ens.domains/name/2.punksotc.eth/details).
+[CryptoPunk #1484](https://cryptopunks.app/cryptopunks/details/1484) is still owned by [PunksOTC](https://cryptopunks.app/cryptopunks/accountinfo?account=0x0232d1083e970f0c78f56202b9a666b526fa379f), under the subdomain [`2.punksotc.eth`](https://app.ens.domains/name/2.punksotc.eth/details). They seem to be [lowering their offer on a regular schedule](https://cryptopunks.app/cryptopunks/details/1484).
 
-I feel terrible and dumb on all ends. For having been somewhat into this before it became a cultural touchstone, for owning something worth more money than I've ever had, for letting down the people I asked to help me sell it smartly, for falling for a stupid scam.
+The primary lead on scammers' idenity is probably the domain `meekicks.app`. WHOIS doesn't point to much beyond `registrar.eu` & OVH.
 
-I [made something annoying](TK) to celebrate this all.
+I'm ashamed but now have a wild story and I'm okay. For having been somewhat into this before it became a cultural touchstone, for owning something worth more money than I've ever had, for losing it so clumsily, for letting down [the people in my life](https://twitter.com/SamEwen/status/1577747247693021210) it would have helped and who were helping me.
+
+I [made a collection](TK) to celebrate this all, for me and the other two. Welcome to the club. I'll be hanging with the smokers outside the emergency exit, not smoking, talking about other things.
