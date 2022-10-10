@@ -113,4 +113,6 @@ The primary lead on scammers' idenity is probably the domain `meekicks.app`. WHO
 
 I'm okay. Ashamed and whiplashed but now have a wild story. For having been aware this before it became a cultural touchstone, for owning something worth more money than I've ever had, for losing it so clumsily, for letting down [the people](https://twitter.com/SamEwen/status/1577747247693021210) who were helping me, and who its sale may have helped.
 
-I [made a collection](TK) to celebrate this all, for me and the other two MeeKicks scammees. Welcome to the club. I'll be hanging with the smokers outside the emergency exit, talking about other things.
+I made rediculous [StolenPunks](https://stolenpunks.app) to celebrate this all, for me and the other two MeeKicks scammees. Welcome to the club. I'll be hanging with the smokers outside the emergency exit, talking about other things.
+
+[![StolenPunk #1484](https://stolenpunks.app/public/images/stolenpunks/stolenpunk1484.svg)](https://stolenpunks.app/cryptopunks/details/1484)
