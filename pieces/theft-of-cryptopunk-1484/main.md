@@ -17,7 +17,7 @@ Looking at my calendar and photo library, it must have been from my apartment—
 
 Every crypto crash & resurge in the past I hit at the exact wrong time. Starting the day after BTC hit $1,000 on a Black Friday while I was in high school I set an auto-buy for $1 USD worth of Bitcoin every day. I sold the 2 Bitcoin it'd saved in March 2016 for $600 to pay a past-due tuition bill.
 
-Since circa Super Bowl 2021 have been especially suspicious how eagerly those who have gotten or expect their returns in this universe now are bent on convincing every cool suburban dad in the country to join in, never promising but certainly implying that somehow everybody who touches this stuff is all going to "make it." Zero-trust, decentralized, self-balanced, but trust our product, use our platform, and don't worry if you don't understand how it works.
+Since circa the Super Bowl I have been _especially_ suspicious how eagerly those who have gotten or expect their returns in this scene now are bent on convincing every self-diagnosed cool dad in the country to join in, never promising but certainly implying that somehow everybody who touches this stuff is all going to "make it." Zero-trust, decentralized, self-policed: but trust our product, grow our platform, and don't worry if you don't understand how it works.
 
 ***
 
