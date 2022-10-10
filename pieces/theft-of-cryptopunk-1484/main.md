@@ -91,7 +91,7 @@ Those designing this Web3 world: if you truly want it to grow, [be mindful of th
 
 ## Some Thoughts
 
-An NFT is not an art genre. It's barely a medium. I guess it's sort of an editioning practice. What seems unique about NFTs over any other hyped-up art trend is a large subset of culture who didn't usually spend much time thinking about art markets suddenly have strong opinions. My guess is whatever you feel toward NFTs, you'll feel the same witnessing the actual trading floors of high-value tangible art. Go to a Phillips or Sotheby's auction; you can [just walk in](https://www.phillips.com/calendar). It's an odd experience.
+An NFT is not an art genre. It's barely a medium. I guess it's sort of an editioning practice with built-in certificates of authenticity. What seems unique about NFTs over any other hyped-up art trend is a large subset of culture who didn't usually spend much time thinking about art markets suddenly have strong opinions. My guess is whatever you feel toward NFTs, you'll feel the same witnessing the actual trading floors of high-value tangible art. Go to a Phillips or Sotheby's auction; you can [just walk in](https://www.phillips.com/calendar). It's an odd experience.
 
 Or the Armory Show, where I once saw a drunk museum buyer get scolded politely for walking into sculture, as the gallerist tried to figure out if her interaction made it more valuable or less, and if she was about to buy.
 
