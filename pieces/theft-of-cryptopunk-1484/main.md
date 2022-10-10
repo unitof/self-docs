@@ -13,13 +13,13 @@ On March 9, 2019 at 05:31:39 PM UTC, a time when most were blessed with not havi
 
 Looking at my calendar and photo library, it must have been from my apartment—two hours later I have photos from walk I remember taking uptown, where I found an uncashed $2,000 check on the sidewalk around 23rd St. I voided it and mailed to the bearer's address, who a week later anonymously sent one of those wine & cheese gift baskets by mail. Zero-trust in the corporeal world.
 
-❦
+***
 
 Every crypto crash & resurge in the past I hit at the exact wrong time. Starting the day after BTC hit $1,000 on a Black Friday while I was in high school I set an auto-buy for $1 USD worth of Bitcoin every day. I sold the 2 Bitcoin it'd saved in March 2016 for $600 to pay a past-due tuition bill.
 
 Since circa Super Bowl 2021 have been especially suspicious how eagerly those who have gotten or expect their returns in this universe now are bent on convincing every cool suburban dad in the country to join in, never promising but certainly implying that somehow everybody who touches this stuff is all going to "make it." Zero-trust, decentralized, self-balanced, but trust our product, use our platform, and don't worry if you don't understand how it works.
 
-❦
+***
 
 Nine months, a new laptop, uninstalled wallets, and buried passphrases later, my bid was apparently accepted [on Dececember 28, 2019](https://cryptopunks.app/cryptopunks/details/1484). In raw crypto contracts—and this is the genuinely fascinating and cool thing about this world—there are no accounts, no customer service, no notifications. Some anonymous miner moved a few bits that associated `punkIndex 1484` with my address, and like many things in this world, I did the best possible thing by not knowing nor noticing nor touching it for 3 years.
 
