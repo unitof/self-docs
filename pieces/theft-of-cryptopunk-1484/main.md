@@ -98,11 +98,12 @@ Or the Armory Show, where I once saw a drunk museum buyer get scolded politely f
 Crypto art, built on massively distributed systems where everyone processing your transactions is incentivized do exactly what you ask no matter how fraudulent the demand, feel a bit like a Sotheby's auction where if you grab the painting from the block you can keep it. Then again: I suppose if that happened I'd root for the new folk hero.
 
 
-## Some Goals
+## My Goals
 
-1. Educate others how these scams work, à la [Kitboga](https://www.twitch.tv/kitboga)
-2. Draw attention to stolen art in circulation, à la [ISG](https://www.gardnermuseum.org/about/theft-story)
-3. Absolve a bit of my embarassment & shame & loss surrounding this whole thing
+1. [Educate](https://www.twitch.tv/kitboga) how these scams work, to those who are liable to fall for them and those who are capable of making them less possible.
+2. Make this theft [well-known](https://www.gardnermuseum.org/about/theft-story) to the owner market
+3. Make these [stolen assets](https://www.artloss.com) well-known to the buyer market
+4. Absolve a bit of my embarassment & shame & loss surrounding this whole chapter. [Feel less lonely](https://www.patreon.com/posts/54152015).
 
 
 ## Where They Are Now
@@ -113,6 +114,6 @@ The primary lead on scammers' idenity is probably the domain `meekicks.app`. WHO
 
 I'm okay. Ashamed and whiplashed but now have a wild story. For having been aware this before it became a cultural touchstone, for owning something worth more money than I've ever had, for losing it so clumsily, for letting down [the people](https://twitter.com/SamEwen/status/1577747247693021210) who were helping me, and who its sale may have helped.
 
-I made rediculous [StolenPunks](https://stolenpunks.app) to celebrate this all, for me and the other two MeeKicks scammees. Welcome to the club. I'll be hanging with the smokers outside the emergency exit, talking about other things.
+I made [some ridiculous parodies](https://stolenpunks.app) to celebrate this all, for me and the other two MeeKicks scammees. Welcome to the club. I'll be hanging with the smokers outside the emergency exit, talking about other things.
 
 [![StolenPunk #1484](https://stolenpunks.app/public/images/stolenpunks/stolenpunk1484.svg)](https://stolenpunks.app/cryptopunks/details/1484)
