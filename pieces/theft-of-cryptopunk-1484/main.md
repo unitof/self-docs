@@ -98,7 +98,14 @@ Or the Armory Show, where I once saw a drunk museum buyer get scolded politely f
 Crypto art, built on massively distributed systems where everyone processing your transactions is incentivized do exactly what you ask no matter how fraudulent the demand, feel a bit like a Sotheby's auction where if you grab the painting from the block you can keep it. Then again: I suppose if that happened I'd root for the new folk hero.
 
 
-## Where Are They Now
+## Some Goals
+
+1. Educate others how these scams work, à la [Kitboga](https://www.twitch.tv/kitboga)
+2. Draw attention to stolen art in circulation, à la [ISG](https://www.gardnermuseum.org/about/theft-story)
+3. Absolve a bit of my embarassment & shame & loss surrounding this whole thing
+
+
+## Where They Are Now
 
 [CryptoPunk #1484](https://cryptopunks.app/cryptopunks/details/1484) is still owned by [PunksOTC](https://cryptopunks.app/cryptopunks/accountinfo?account=0x0232d1083e970f0c78f56202b9a666b526fa379f), under the subdomain [`2.punksotc.eth`](https://app.ens.domains/name/2.punksotc.eth/details). They seem to be [lowering their asking price on a schedule](https://cryptopunks.app/cryptopunks/details/1484).
 
