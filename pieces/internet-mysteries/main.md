@@ -3,6 +3,12 @@ title: Internet Mysteries
 ---
 A living collection of strange or unsolved things I've found on the web
 
+# [qfwfq.com](http://qfwfq.com)
+
+My favorite Cosmicomics character, notably from _The Distance of the Moon_. Must figure out what this is/was/will be.
+
+Discovered when I had the urge to buy the domain, but glad I don’t have to now.
+
 # foo.bar
 
 I found this in November 2022 wondering if anyone'd bought the domain `foo.bar`.
