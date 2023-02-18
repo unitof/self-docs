@@ -1,4 +1,4 @@
-—--
+---
 title: Places to Get VHS in NYC
 subtitle: Compiled in ongoing prep for [Open VCR Night](https://geistlist.email/archive/7pm-on-finding-a-lost-magic-school-bus-5347/)
 ---
