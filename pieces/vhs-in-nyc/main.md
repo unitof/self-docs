@@ -10,4 +10,4 @@ Crates of $1 tapes scattered in and outside, plus shelves you’ll browse right 
 ## Deep Cuts Record Store
    57-03 Catalpa Ave, Queens
 
-Was on my way to investigate a [drop Mark Kleeb forwarded me](https://www.instagram.com/p/CnumeetOkJG/) but got distracted by Rebel Rouser on the walk there today.
+Went to investigate a [drop Mark Kleeb forwarded me](https://www.instagram.com/p/CnumeetOkJG/), paid off. They had a **hand-painted** former _American Beauty_ box containing "Celebrity Wife Swap," "Live at Bohemian Grove." I'm dying to find out.
