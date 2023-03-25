@@ -1,3 +1,4 @@
+---
 title: On War Dreamer
 ---
 On a free Friday night and request to Nathan Repasz for how to fill it, I received a coupon code and tip to stop by _War Dreamer_ at Wild Project. The beauty of this place is when your friend have friends doing shows in your neighborhood.
