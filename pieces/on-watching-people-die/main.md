@@ -3,7 +3,7 @@ title: On Watching People Die
 ---
 _The speech I [delivered yesterday](https://www.youtube.com/live/13-YfyiPRQE?t=35m36s) at my [mother’s funeral](https://www.valerie.memorial), at Zion Mennonite Church in Souderton, PA (yesterday being November 18, 2023)_
 
-There is an online community called Watch People Die.
+There is a community called Watch People Die.
 
 It is exactly what it says it is: people sharing with each other photographs, descriptions, and especially videos of human death, of any cause.
 
