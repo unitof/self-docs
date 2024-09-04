@@ -23,7 +23,7 @@ All times NYC (Eastern) unless stated otherwise.
 
 > Robert, are you on your way? The two of us have already arrived at the stadium, come here quickly, we can finish playing early and go have something to eat.
 
-## From +1 (336) 929-XXXX
+## From +1 (336) 929-6296
 ### iMessage, 10:31PM on August 17, 2024
 
 > ![Live photo of woman giving peace sign][IMG_6194.heic]
