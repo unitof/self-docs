@@ -1,3 +1,6 @@
+---
+title: Stranger Texts
+---
 Cataloging the new series of strange spam texts I receive. My best guess is an attempt to clean spammer recipient lists by monitoring which get a reply?
 
 Some of these may be genuine wrong numbers, but something just seems similarly _off_ about these. Especially how there's never a follow-up or correction for realizing the wrong number.
