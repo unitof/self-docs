@@ -11,6 +11,11 @@ I have a (267) phone number. Registered circa 2009 on AT&T, ported to T-Mobile c
 
 All times NYC (Eastern) unless stated otherwise.
 
+## From 
+### SMS, 1:39PM on October 6, 2024
+
+> Hi Kari. I'm Sarah, we've met. I heard from Jonathan that you will be assigned to work at SGX in Singapore. Congratulations. Next Wednesday is Jonathan‘s birthday. He asked me to pick you up on the way. Please tell me when is the right time to pick you up
+
 ## From +1 (661) 365-4616
 ### SMS, 7:02PM on September 19, 2024
 
