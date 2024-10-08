@@ -11,6 +11,14 @@ I have a (267) phone number. Registered circa 2009 on AT&T, ported to T-Mobile c
 
 All times NYC (Eastern) unless stated otherwise.
 
+## From
+### SMS, 11:52AM on October 8, 2024
+
+> 
+>  Hello Zack, My name is Diane, How are you ?
+
+_leading line break & space sic._
+
 ## From [oops, forgot to capture]
 ### SMS, 1:39PM on October 6, 2024
 
