@@ -24,10 +24,17 @@ All times NYC (Eastern) unless stated otherwise.
 ## From +1 (213) 676-0049
 ### SMS, 11:52AM on October 8, 2024
 
-> 
->  Hello Zack, My name is Diane, How are you ?
+> \
+> &nbsp;Hello Zack, My name is Diane, How are you ?
 
-_leading line break & space sic._
+_Leading line break & space sic._
+
+## From +1 (830) 637-8599
+### iMessage, 6:38pm on October 3, 2024
+
+> How’s everything going?&nbsp;
+
+_Trailing space sic._
 
 ## From [oops, forgot to capture]
 ### SMS, 1:39PM on October 6, 2024
