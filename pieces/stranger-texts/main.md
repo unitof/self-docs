@@ -11,6 +11,11 @@ I have a (267) phone number. Registered circa 2009 on AT&T, ported to T-Mobile c
 
 All times NYC (Eastern) unless stated otherwise.
 
+## From +1 (984) 313-2109
+### SMS, 12:43PM on March 18, 2025
+
+> Hey long time no see. What are you up to? Do you know who I am?
+
 ## From +1 (909) 818-1190
 ### SMS, 10:10AM on Novemer 24, 2024
 
@@ -145,8 +150,3 @@ _"Hello 👋🏻" was SMS subject._
 ### iMessage, 6:15PM on September 8, 2023
 
 > Tomorrow we'll swim, relax and drink, can you come with me?
-
-## From +1 (984) 313-2109
-### SMS, 12:43PM on March 18, 2025
-
-> Hey long time no see. What are you up to? Do you know who I am?
