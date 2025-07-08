@@ -1,0 +1,21 @@
+---
+import { getPieceBySlug, getAllSlugs } from '../lib/api.js';
+import Base from '../layouts/Base.astro';
+
+const allSlugs = await getAllSlugs();
+const fields = ['title', 'slug'];
+const allPieces = allSlugs.map(pieceSlug => getPieceBySlug(pieceSlug, fields));
+---
+
+<Base title="Documentation of Jacob Ford">
+    <section>
+        <h1 class="site-title">Documentation of <a href="//jacobford.com">Jacob Ford</a></h1>
+        <h2 class="site-subtitle">All substance, little style</h2>
+        <p>An <a href="https://github.com/unitof/self-docs-code/">unfinished</a> non-chronological blogging engine, which had to start somewhere</p>
+        <ul>
+            {allPieces.map(piece => (
+                <li><a href={`/pieces/${piece.slug}`}>{piece.title}</a></li>
+            ))}
+        </ul>
+    </section>
+</Base>

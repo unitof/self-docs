@@ -2,11 +2,28 @@
 
 A git-tracked repo containing all written `pieces` for docs.jacobford.com.
 
-See unitof/self-docs-code for the site designed to host & display this content.
-
 A non-chronological blog. Open source documentation of a guy.
 
 Non-plaintext assets tracked and stored, as much as possible, using Git LFS.
+
+## Technical Stack
+
+**Now built with Astro** - migrated from Next.js in 2025 for improved static site generation and developer experience.
+
+- **Framework**: Astro v5.11+ with static output
+- **Content**: Markdown files with git-based versioning  
+- **Styling**: Global CSS with custom fonts (Fern Web, Triplicate A)
+- **Analytics**: Fathom Analytics and Web Vitals reporting
+- **Deployment**: Static build output suitable for any CDN
+
+### Development
+
+```bash
+npm install
+npm run dev    # Development server
+npm run build  # Production build  
+npm run start  # Preview production build
+```
 
 ### Guiding Principles
 Plain Markdown writing, with all relevant media and assets stored relative to each piece. With a few cross-referential exceptions, each piece should be self-contained, portable, standarized, and not dependent on outside compilation to be read in as basic Markdown with a few relative links.
