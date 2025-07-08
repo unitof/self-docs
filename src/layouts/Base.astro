@@ -1,46 +1,63 @@
-import '../styles/global.css'
-import { useEffect } from 'react';
-import * as Fathom from 'fathom-client'
+---
+import '../styles/global.css';
+---
 
-const fathomTrackingCode = process.env.NEXT_PUBLIC_FATHOM_SITEID
-
-function App({ Component, pageProps }) {
-
-  useEffect(() => {
-    // Initialize Fathom when the app loads
-    Fathom.load(fathomTrackingCode, {
-      includedDomains: [
-        'docs.jacobford.com',
-      ],
-    })
-  })
-
-  return <Component {...pageProps} />
-}
-
-// Axiom Web Vitals unsampled logging
-export function reportWebVitals(metric) {
-  const url = process.env.NEXT_PUBLIC_AXIOM_INGEST_ENDPOINT
-
-  if (!url) {
-    return
-  }
-
-  const body = JSON.stringify({
-    route: window.__NEXT_DATA__.page,
-    ...metric,
-  })
-
-  if (navigator.sendBeacon) {
-    navigator.sendBeacon(url, body);
-  } else {
-    fetch(url, {
-      body,
-      method:
-      'POST',
-      keepalive: true
-    })
-  }
-}
-
-export default App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{Astro.props.title || 'Documentation of Jacob Ford'}</title>
+    <script is:inline>
+        // Fathom Analytics
+        const fathomTrackingCode = import.meta.env.PUBLIC_FATHOM_SITEID;
+        if (fathomTrackingCode) {
+            (function(f, a, t, h, o, m){
+                a[h]=a[h]||function(){
+                    (a[h].q=a[h].q||[]).push(arguments)
+                };
+                o=f.createElement('script'),
+                m=f.getElementsByTagName('script')[0];
+                o.async=1; o.src=t; o.id='fathom-script';
+                m.parentNode.insertBefore(o,m)
+            })(document, window, '//cdn.usefathom.com/tracker.js', 'fathom');
+            fathom('set', 'siteId', fathomTrackingCode);
+            fathom('set', 'includedDomains', ['docs.jacobford.com']);
+            fathom('trackPageview');
+        }
+    </script>
+</head>
+<body>
+    <slot />
+    <script is:inline>
+        // Web Vitals reporting
+        const axiomUrl = import.meta.env.PUBLIC_AXIOM_INGEST_ENDPOINT;
+        if (axiomUrl) {
+            import('web-vitals').then(({ getCLS, getFID, getFCP, getLCP, getTTFB }) => {
+                function sendToAxiom(metric) {
+                    const body = JSON.stringify({
+                        route: window.location.pathname,
+                        ...metric,
+                    });
+                    
+                    if (navigator.sendBeacon) {
+                        navigator.sendBeacon(axiomUrl, body);
+                    } else {
+                        fetch(axiomUrl, {
+                            body,
+                            method: 'POST',
+                            keepalive: true
+                        });
+                    }
+                }
+                
+                getCLS(sendToAxiom);
+                getFID(sendToAxiom);
+                getFCP(sendToAxiom);
+                getLCP(sendToAxiom);
+                getTTFB(sendToAxiom);
+            });
+        }
+    </script>
+</body>
+</html>
