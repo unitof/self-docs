@@ -1,0 +1,44 @@
+---
+import { getPieceBySlug, getAllSlugs } from '../../lib/api.js';
+import mdToHtml from '../../lib/mdToHtml.js';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+    const pieces = getAllSlugs();
+    
+    return pieces.map((piece) => ({
+        params: { slug: piece }
+    }));
+}
+
+const { slug } = Astro.params;
+
+const piece = await getPieceBySlug(slug, [
+    'title',
+    'subtitle',
+    'body_md',
+    'date_firstPublished',
+    'date_lastUpdated',
+]);
+
+const bodyHtml = await mdToHtml(piece.body_md || '');
+---
+
+<Base title={`${piece.title}, by Jacob Ford`}>
+    <article>
+        <header>
+            <nav>
+                <a class="back" href="/">Return to Table of Contents</a>
+            </nav>
+            <h1 class="piece-title">{piece.title}</h1>
+            <h2 class="piece-subtitle">{piece.subtitle}</h2>
+            <h3 class="piece-metadata">
+                Written on a {piece.date_firstPublished}
+            </h3>
+        </header>
+        <section
+            class="piece-body"
+            set:html={bodyHtml}
+        />
+    </article>
+</Base>
