@@ -1,5 +1,3 @@
-# though this repo is usually installed as a submodule to unitof/self-docs-code,
-# we'll write separate (but similar) .editorconfig rules for each
 root = true
 
 [*]
