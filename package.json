@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "next-remote-watch ./content ./lib",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "vitest",
+    "test:run": "vitest run"
   },
   "dependencies": {
     "date-and-time": "^2.4.1",
@@ -21,6 +23,7 @@
     "remark-html": "^15.0.1"
   },
   "devDependencies": {
-    "next-remote-watch": "^2.0.0"
+    "next-remote-watch": "^2.0.0",
+    "vitest": "^3.2.4"
   }
 }
