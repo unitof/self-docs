@@ -10,7 +10,7 @@ No spoilers for the show, far as I can tell. Just lots of little references and 
 
 I think I also saw versions of this paper pasted to the windows of the Lee’s Art Shop, on 57th.
 
-[PDF scan of _Les Chroniques du Faubourg_](les-chroniques-du-faubourg.pdf)
+[PDF scan of _Les Chroniques du Faubourg_](/les-chroniques-du-faubourg.pdf)
 
 Of note: MDCCCXXXI would be 18**3**1, right?
 
