@@ -11,6 +11,17 @@ I have a (267) phone number. Registered circa 2009 on AT&T, ported to T-Mobile c
 
 All times NYC (Eastern) unless stated otherwise.
 
+## From +1 (647) 656-7443
+### SMS, 5:49PM on October 9, 2025
+
+> Do you have a spare moment
+
+## From +1 (928) 212-6704
+### SMS, 11:29PM on September 22, 2025
+
+> Hey, is your name Jenny?
+
+
 ## From +1 (709) 732-2756
 ### SMS, 2:24PM on August 12, 2025
 
