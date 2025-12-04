@@ -11,6 +11,27 @@ I have a (267) phone number. Registered circa 2009 on AT&T, ported to T-Mobile c
 
 All times NYC (Eastern) unless stated otherwise.
 
+## From +1 (559) 373-5387
+### iMessage, 12:50PM on December 4, 2025
+
+<pre>
+>  
+> How about your day? Don’t miss for meet at evening? 
+</pre>
+
+## From +1 (561) 581-3470
+### SMS, 3:10PM on November 16, 2025
+
+> I found your phone number in my phone contacts. Can I know who you are?
+
+### SMS, 3:21PM on November 16, 2025
+
+> Did you get my message?
+
+### SMS, 7:05PM on November 16, 2025
+
+> Good evening
+
 ## From +1 (513) 796-1487
 ### SMS, 8:36PM on November 1, 2025
 
