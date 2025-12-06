@@ -11,6 +11,11 @@ I have a (267) phone number. Registered circa 2009 on AT&T, ported to T-Mobile c
 
 All times NYC (Eastern) unless stated otherwise.
 
+## From +1 (646) 570-6671
+### iMessage, 6:22PM on November 16
+
+> Feel like joining me for a good meal sometime? my treat!
+
 ## From +1 (559) 373-5387
 ### iMessage, 12:50PM on December 4, 2025
 
