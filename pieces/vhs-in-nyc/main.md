@@ -2,6 +2,8 @@
 title: Places to Get VHS in NYC
 subtitle: Compiled in ongoing prep for [Open VCR Night](https://geistlist.email/archive/7pm-on-finding-a-lost-magic-school-bus-5347/)
 ---
+I haven't updated this in a while. Found some new shops, disappeared some old. But **today (April 27, 2026) is a Last Monday of an Even-Numbered Month**, so [tonight is Open VCR Night](https://www.wonderville.nyc/events/open-vcr-night-4-27-26. Whoever is in charge of distributing them: please bring one of those mysterious Boards of Canada VHSs? Thanks.
+
 ## Rebel Rouser
    867 Broadway, Brooklyn (in The Alley)
 
