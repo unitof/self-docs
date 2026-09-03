@@ -1,5 +1,6 @@
 import { getPieceBySlug, getAllSlugs } from '../lib/api'
 import Head from 'next/head'
+import { markdownToInlineHtml } from '../lib/mdToHtml'
 
 export default function TableOfContents({ pieces }) {
   return (
@@ -12,7 +13,7 @@ export default function TableOfContents({ pieces }) {
       <p>An <a href="https://github.com/unitof/self-docs-code/">unfinished</a> non-chronological blogging engine, which had to start somewhere</p>
       <ul>
       {pieces.map(piece =>
-        <li><a href={`/pieces/${piece.slug}`}>{piece.title}</a></li>
+        <li><a href={`/pieces/${piece.slug}`} dangerouslySetInnerHTML={{ __html: markdownToInlineHtml(piece.title) }} /></li>
       )}
       </ul>
     </section>

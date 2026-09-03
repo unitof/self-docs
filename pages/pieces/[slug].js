@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { getPieceBySlug, getAllSlugs } from '../../lib/api'
-import mdToHtml from '../../lib/mdToHtml'
+import mdToHtml, { markdownToInlineHtml } from '../../lib/mdToHtml'
 
 export default function Piece({ piece }) {
   return (
@@ -12,7 +12,7 @@ export default function Piece({ piece }) {
         <nav>
           <a className="back" href="/">Return to Table of Contents</a>
         </nav>
-        <h1 className="piece-title">{piece.title}</h1>
+        <h1 className="piece-title" dangerouslySetInnerHTML={{ __html: markdownToInlineHtml(piece.title) }} />
         <h2 className="piece-subtitle">{piece.subtitle}</h2>
         <h3 className="piece-metadata">
           Written on a {piece.date_firstPublished}
