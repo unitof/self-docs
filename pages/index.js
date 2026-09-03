@@ -13,7 +13,7 @@ export default function TableOfContents({ pieces }) {
       <p>An <a href="https://github.com/unitof/self-docs-code/">unfinished</a> non-chronological blogging engine, which had to start somewhere</p>
       <ul>
       {pieces.map(piece =>
-        <li><a href={`/pieces/${piece.slug}`} dangerouslySetInnerHTML={{ __html: markdownToInlineHtml(piece.title) }} /></li>
+        <li><a href={`/pieces/${piece.slug}`} dangerouslySetInnerHTML={{ __html: markdownToInlineHtml(piece.title, { allowLinks: false }) }} /></li>
       )}
       </ul>
     </section>
