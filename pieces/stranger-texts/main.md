@@ -24,10 +24,12 @@ All times NYC (Eastern) unless stated otherwise.
 ## From +1 (559) 373-5387
 ### iMessage, 12:50PM on December 4, 2025
 
-<pre>
+> <pre>
 >  
 > How about your day? Don’t miss for meet at evening? 
-</pre>
+> </pre>
+
+[note leading newline and trailing spaces]
 
 ## From +1 (561) 581-3470
 ### SMS, 3:10PM on November 16, 2025
