@@ -17,7 +17,7 @@ All times NYC (Eastern) unless stated otherwise.
 > Tomorrow looks like a great day for golf, want to come along?
 
 ## From +1 (646) 570-6671
-### iMessage, 6:22PM on November 16
+### iMessage, 6:22PM on November 16, 2025
 
 > Feel like joining me for a good meal sometime? my treat!
 
