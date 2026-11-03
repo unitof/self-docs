@@ -1,19 +1,19 @@
 import Head from 'next/head'
 import { getPieceBySlug, getAllSlugs } from '../../lib/api'
-import mdToHtml from '../../lib/mdToHtml'
+import mdToHtml, { markdownToInlineHtml, markdownToPlaintext } from '../../lib/mdToHtml'
 
 export default function Piece({ piece }) {
   return (
     <article>
       <Head>
-        <title>{piece.title}, by Jacob Ford</title>
+        <title>{markdownToPlaintext(piece.title)}, by Jacob Ford</title>
       </Head>
       <header>
         <nav>
           <a className="back" href="/">Return to Table of Contents</a>
         </nav>
-        <h1 className="piece-title">{piece.title}</h1>
-        <h2 className="piece-subtitle">{piece.subtitle}</h2>
+        <h1 className="piece-title" dangerouslySetInnerHTML={{ __html: markdownToInlineHtml(piece.title, { allowLinks: false }) }} />
+        <h2 className="piece-subtitle" dangerouslySetInnerHTML={{ __html: markdownToInlineHtml(piece.subtitle) }} />
         <h3 className="piece-metadata">
           Written on a {piece.date_firstPublished}
         </h3>
