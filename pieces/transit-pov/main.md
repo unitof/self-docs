@@ -44,9 +44,11 @@ I am only interested in automated or pre-recorded announcements, unless your age
 
 If the train door side announcements are in multiple languages, please capture them all, and help me with non-English transcription if you’re able.
 
-I’m also interested in taxonomizing:
+I’m also interested in (eventually) taxonomizing:
 
 - station arrivals & departure (“this is,” “now entering,” “we are arriving at,” “you are arriving at,” etc.)
 - door open/close announcements and chimes (“doors closing,” “the doors are closing,” “my doors are closing,) etc.)
 - self identity (“this train,” “the train,” “we are,” “you are,” etc.)
 - buses and other non-trains
+
+Militant grammarians who know the terms behind these concepts are also invited to participate.
