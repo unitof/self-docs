@@ -34,15 +34,15 @@ _no door side announcements_
 
 “left side exit”
 
-_[need help transcribing the Italian]_
+_[need help transcribing the Italian, reach out for a recording]_
 
 ## Further research needed
 
-Please send me more, ideally with direct transcriptions or recordings. Submit a PR to this post if you know that that means, or email me if not.
+Please send me more, ideally with direct transcriptions or recordings. [Submit a PR](https://github.com/unitof/self-docs/blob/main/pieces/transit-pov/main.md) if you know that that means, or [email me](https://jacobford.com/card/) if you don’t.
 
-I am only interested in automated or pre-recorded announcements, unless your agency’s live announcers are especially script-following.
+I am only interested in automated or pre-recorded announcements, unless your agency’s live announcers seriously stick to the script and you can prove it.
 
-If the train door side announcements are in multiple languages, please capture them all, and help me with non-English transcription if you can.
+If the train door side announcements are in multiple languages, please capture them all, and help me with non-English transcription if you’re able.
 
 I’m also interested in taxonomizing:
 
@@ -50,4 +50,3 @@ I’m also interested in taxonomizing:
 - door open/close announcements and chimes (“doors closing,” “the doors are closing,” “my doors are closing,) etc.)
 - self identity (“this train,” “the train,” “we are,” “you are,” etc.)
 - buses and other non-trains
-  
