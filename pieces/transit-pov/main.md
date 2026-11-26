@@ -5,7 +5,7 @@ As a New Yorker I feel coddled when I travel and a train tells me which side’s
 
 My findings of how trains refer to their door sidedness:
 
-# NYC MTA subway
+## NYC MTA subway
 
 _no door side announcements_
 
@@ -33,7 +33,7 @@ _no door side announcements_
 
 “left side exit”
 
-_[need help transcribing the Italian]
+_[need help transcribing the Italian]_
 
 ## Further research needed
 
