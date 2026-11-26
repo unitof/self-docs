@@ -1,3 +1,4 @@
+---
 title: Transit Points of View
 subtitle: The deixis of trains
 ---

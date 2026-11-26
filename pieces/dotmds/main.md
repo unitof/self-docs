@@ -1,3 +1,4 @@
+---
 title: Dot MDs
 subtitle: A jargonfile for well-known `.md` files
 ---
