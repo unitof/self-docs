@@ -1,6 +1,8 @@
 ---
 title: Masquerade Ephemera
 subtitle: Les Chronoiques du Faubourg
+tags:
+  - trash-archive
 ---
 A clockwork Phantom grabbed my hand on Saturday at the 1:30pm show of _Masquerade_, and handed me this broadside.
 
