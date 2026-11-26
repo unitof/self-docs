@@ -12,7 +12,7 @@ I have a (267) phone number. Registered circa 2009 on AT&T, ported to T-Mobile c
 All times NYC (Eastern) unless stated otherwise.
 
 ## From +1 (646) 570-6671
-### iMessage, 6:22PM on November 16
+### iMessage, 6:22PM on December 5, 2025
 
 > Feel like joining me for a good meal sometime? my treat!
 
@@ -23,6 +23,11 @@ All times NYC (Eastern) unless stated otherwise.
 >  
 > How about your day? Don’t miss for meet at evening? 
 </pre>
+
+## From +1 (646) 570-6671
+### iMessage, 6:22PM on November 16, 2025
+
+> Feel like joining me for a good meal sometime? my treat!
 
 ## From +1 (561) 581-3470
 ### SMS, 3:10PM on November 16, 2025
